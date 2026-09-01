@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Dynamic Programming
 # Link     : https://leetcode.com/problems/edit-distance/
-# Runtime  : 91 ms (beats 34%)
-# Memory   : 15656000 (beats 62%)
+# Runtime  : 83 ms (beats 69%)
+# Memory   : 15812000 (beats 7%)
 # Language : python
 # Copyright: (c) 2026 mithunthangaraj06. All rights reserved.
 # Synced by: leetie
