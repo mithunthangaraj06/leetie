@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Matrix
 # Link     : https://leetcode.com/problems/set-matrix-zeroes/
-# Runtime  : 408 ms (beats 13%)
-# Memory   : 16116000 (beats 5%)
+# Runtime  : 416 ms (beats 12%)
+# Memory   : 16152000 (beats 5%)
 # Language : python
 # Copyright: (c) 2026 mithunthangaraj06. All rights reserved.
 # Synced by: leetie
