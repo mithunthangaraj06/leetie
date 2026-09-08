@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 5 Solved
+## Progress Summary: 6 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,4 +10,5 @@
 | cinema-seat-allocation | Cinema Seat Allocation | Medium | python | [Problem](https://leetcode.com/problems/cinema-seat-allocation/) | [Solution](./solutions/Medium/1386-cinema-seat-allocation/solution.py) |
 | edit-distance | Edit Distance | Medium | python | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.py) |
 | find-the-largest-almost-missing-integer | Find the Largest Almost Missing Integer | Easy | python | [Problem](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [Solution](./solutions/Easy/3471-find-the-largest-almost-missing-integer/solution.py) |
+| set-matrix-zeroes | Set Matrix Zeroes | Medium | python | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.py) |
 | sqrtx | Sqrt(x) | Easy | python | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.py) |
