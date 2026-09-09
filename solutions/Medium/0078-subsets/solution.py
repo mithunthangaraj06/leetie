@@ -4,7 +4,7 @@
 # Tags     : Array, Backtracking, Bit Manipulation
 # Link     : https://leetcode.com/problems/subsets/
 # Runtime  : 0 ms (beats 100%)
-# Memory   : 12828000 (beats 25%)
+# Memory   : 12624000 (beats 25%)
 # Language : python
 # Copyright: (c) 2026 mithunthangaraj06. All rights reserved.
 # Synced by: leetie
