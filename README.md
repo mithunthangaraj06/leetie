@@ -2,12 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 7 Solved
+## Progress Summary: 8 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | add-binary | Add Binary | Easy | python | [Problem](https://leetcode.com/problems/add-binary/) | [Solution](./solutions/Easy/0067-add-binary/solution.py) |
 | cinema-seat-allocation | Cinema Seat Allocation | Medium | python | [Problem](https://leetcode.com/problems/cinema-seat-allocation/) | [Solution](./solutions/Medium/1386-cinema-seat-allocation/solution.py) |
+| combinations | Combinations | Medium | python | [Problem](https://leetcode.com/problems/combinations/) | [Solution](./solutions/Medium/0077-combinations/solution.py) |
 | edit-distance | Edit Distance | Medium | python | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.py) |
 | find-the-largest-almost-missing-integer | Find the Largest Almost Missing Integer | Easy | python | [Problem](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [Solution](./solutions/Easy/3471-find-the-largest-almost-missing-integer/solution.py) |
 | search-a-2d-matrix | Search a 2D Matrix | Medium | python | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.py) |
