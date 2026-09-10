@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 10 Solved
+## Progress Summary: 11 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | add-binary | 67. Add Binary | Easy | python3 | [Problem](https://leetcode.com/problems/add-binary/) | [Solution](./solutions/Easy/0067-add-binary/solution.py) |
+| remove-duplicates-from-sorted-array-ii | Remove Duplicates from Sorted Array II | Medium | python | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./solutions/Medium/0080-remove-duplicates-from-sorted-array-ii/solution.py) |
 | sqrtx | 69. Sqrtx | Easy | python3 | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.py) |
 | edit-distance | 72. Edit Distance | Medium | python3 | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.py) |
 | set-matrix-zeroes | 73. Set Matrix Zeroes | Medium | python3 | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.py) |
